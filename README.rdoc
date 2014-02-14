@@ -1,3 +1,5 @@
 == README
 
+This was a simple app to get data from RJMetrics charts to Google Spreadsheets, or any other location that has a dynamic ip.
 
+It was running on an EC2 elastic beanstalk instance, until it got too expensive. RJMetrics now supports the ability to whitelist IP ranges, so the origional reason for this app is gone.
